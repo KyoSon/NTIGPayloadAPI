@@ -1,0 +1,20 @@
+There are two projects in this solution, one is NTIGPayloadAPI and the other is NTIGPayloadAPINUnitTest which is for the unit test of NTIGPayloadAPI.
+
+In the NTIGPayloadAPI project, there are the following components.
+
+Config : The config folder is used to store the API Key class.
+
+Controller : The controller folder is used to store the Order controller.
+
+Middleware : The middleware folder is used to store ApiKeyMiddleware class which are created for the web request authorization. 
+
+Models : The models folder is used to store the class files which are used to store the data as well as business logic to manage the data.
+
+Service : The service folder is used to manipulate json file.
+
+PayLoads.json : This file is used to store valid payloads in a persistence way.
+
+
+
+In the NTIGPayloadAPINUnitTest project, there are the following components.
+Fixtures : The fixtures folder is used to store test data.

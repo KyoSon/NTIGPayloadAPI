@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "JY6r3ct6W7bOwxXvEDHR9Bcc9Dle8c3pVS6U65Xumw8=",
+  "Source": "NTIGPayloadAPI",
+  "BasePath": "_content/NTIGPayloadAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
